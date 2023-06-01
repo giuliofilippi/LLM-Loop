@@ -1,2 +1,2 @@
 # LLM-Loop
-Generate an arbitrary DAG of Chatting LLMs
+Generate an arbitrary DAG of Chatting LLMs.
